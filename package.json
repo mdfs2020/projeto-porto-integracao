@@ -1,10 +1,11 @@
 {
   "name": "projeto-porto-integracao",
   "version": "1.0.0",
-  "description": "",
+  "description": "### Esse projeto prático possui como finalidade consolidar os conhecimentos adquiridos com o curso até este momento.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,8 @@
   },
   "homepage": "https://github.com/mariliamessias/projeto-porto-integracao#readme",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "mongoose": "^5.10.13"
+  },
+  "devDependencies": {}
 }
