@@ -29,11 +29,11 @@ comprou: (Boolean)
 
 ```
 POST/clientes
-Incluir um novo cliente conforme as característisticas informadas no contrato do model. (HTTP 201 OK)
+Incluir um novo cliente conforme as características informadas no contrato do model. (HTTP 201 OK)
 Resposta:
 {
     "status": true,
-    "mensagem": "Aluna incluida com sucesso"
+    "mensagem": "Cliente incluida com sucesso"
 }
 
 
