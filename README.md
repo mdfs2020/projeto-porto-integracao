@@ -33,7 +33,7 @@ Incluir um novo cliente conforme as características informadas no contrato do m
 Resposta:
 {
     "status": true,
-    "mensagem": "Cliente incluida com sucesso"
+    "mensagem": "Cliente incluido com sucesso"
 }
 
 
